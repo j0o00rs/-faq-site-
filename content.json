@@ -1,0 +1,86 @@
+﻿{
+  "items": [
+    {
+      "title": "What is this website about?",
+      "category": "General",
+      "icon": "📚",
+      "content": "This is an FAQ website. You can ask questions here and get answers. Use the search bar to find what you're looking for."
+    },
+    {
+      "title": "Which side of the building are you going to?",
+      "category": "Out of Area, DRY SIDE",
+      "icon": "🔍",
+      "content": "How should rollbacks be handled in Dry Shipping? 
+
+Rollbacks need to be stair-stepped to the red peg, then layer-picked down to the pallet. 
+
+What should be done before picking dog food? 
+
+Place a slip sheet on top of the pallet before picking dog food. 
+
+What is the procedure for empty pallets in non-conventional slots? 
+
+Pull empty pallets and place them in designated pallet returns. 
+
+Are pallets laid out on the low side in Dry Shipping? 
+
+No, pallets are not laid out on the low side; only use the pallet dispenser. 
+
+Where are stray and damage stations located? 
+
+Stray and damage stations are generally located in slots near the breezeway. 
+
+How do trips get to the correct wrap machine sides? 
+
+Make sure trips go to the correct wrap machine sides as specified."
+    },
+    {
+      "title": "Which side of the building are you going to?",
+      "category": "Out of Area Meat and Produce",
+      "icon": "📂",
+      "content": "When is a species divider needed in MP Shipping? 
+
+A species divider is needed under seafood and flowers in MBF and FLW. 
+
+When should pallets be pulled in MP Shipping? 
+
+Pallets only need to be pulled in rollbacks. 
+
+What is the procedure for potatoes? 
+
+Slip sheet needs to be on top of potatoes. 
+
+What is the procedure for RPC’s? 
+
+Use cardboard lids on RPC’s to prevent “nesting”. 
+
+Are RPC’s and 110” slots layer-picked? 
+
+RPC’s and 110” slots are not layer-picked; only a few areas require layer picking. 
+
+Where is the third shrink wrapper located? 
+
+There is a third shrink wrapper location by doors 50-56 on the receiving side. 
+
+Where are stray and damage stations in MP Shipping? 
+
+Stray and damage stations are located in the breezeways and endcaps. 
+
+How are meat room damage bins sorted? 
+
+Meat room damage bins are sorted according to species. "
+    },
+    {
+      "title": "How do I contact support?",
+      "category": "Support",
+      "icon": "📞",
+      "content": "You can email us at support@example.com or call (555) 123-4567. We respond within 24 hours."
+    },
+    {
+      "title": "What are your business hours?",
+      "category": "Support",
+      "icon": "🕐",
+      "content": "We are open Monday through Friday, 9am to 6pm. We are closed on weekends and holidays."
+    }
+  ]
+}
